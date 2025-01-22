@@ -7,6 +7,7 @@
     "dev": "react-server",
     "build": "react-server build",
     "lint": "eslint",
+    "lint-fix": "eslint --fix",
     "start": "react-server start"
   },
   "dependencies": {
