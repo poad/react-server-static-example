@@ -11,7 +11,7 @@
     "start": "react-server start"
   },
   "dependencies": {
-    "@lazarv/react-server": "0.0.0-experimental-3c4e6bc-20250119-0753e99e"
+    "@lazarv/react-server": "0.0.0-experimental-44033c0-20250123-2c156f57"
   },
   "devDependencies": {
     "@eslint/compat": "^1.2.5",
@@ -22,8 +22,8 @@
     "@stylistic/eslint-plugin-jsx": "^2.13.0",
     "@stylistic/eslint-plugin-plus": "^2.13.0",
     "@stylistic/eslint-plugin-ts": "^2.13.0",
-    "@types/node": "^22.10.7",
-    "@types/react": "^19.0.7",
+    "@types/node": "^22.10.10",
+    "@types/react": "^19.0.8",
     "@types/react-dom": "^19.0.3",
     "@vitejs/plugin-react-swc": "^3.7.2",
     "eslint": "^9.18.0",
